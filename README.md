@@ -36,14 +36,20 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [pixel-bot](/bots/discord/pixelbot/) Python
 * [Sinusbot](/bots/discord/sinusbot/)
 
+[Twitch](/bots/twitch)
+* [PhantomBot](/bots/twitch/phantombot/)
+
 [TeamSpeak3](bots/teamspeak3)
 * [JTS3ServerMod](/bots/teamspeak3/jts3servermod/)
 
 ## Database Eggs
+### SQL Databases
 [MariaDB](/database/mariadb/)
 
-## Game Eggs
+### In-Memory Databases
+[Redis](/database/redis/)
 
+## Game Eggs
 [ET Legacy](/enemy_territory/etlegacy/)
 
 [Factorio](/factorio/factorio/)
@@ -57,28 +63,33 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [Multi Theft Auto](/gta/mtasa/)
   * [SA-MP](/gta/samp/)
 
-[Minecraft Bedrock](/minecraft_bedrock/) Servers for Bedrock Minecraft
-* [Bedrock](/minecraft_bedrock/bedrock/)
-* [Nukkit](/minecraft_bedrock/nukkit/)
-* [PocketMine MP](/minecraft_bedrock/pocketmine_mp/)
+[Mindusrty](/mindustry/)
+
+[Minecraft Bedrock](/minecraft_bedrock/)  
+* [Bedrock](/minecraft_bedrock/bedrock/)  
+* [Nukkit](/minecraft_bedrock/nukkit/)  
+* [PocketMine MP](/minecraft_bedrock/pocketmine_mp/)  
 
 [Minecraft Java](/minecraft_java/) Servers for Java Minecraft
 * [Cuberite](/minecraft_java/cuberite/)
 * [Forge](/minecraft_java/forge/)
 * [Feed The Beast](/minecraft_java/ftb/)
+* [Magma](/minecraft_java/magma/)
 * [Paper](/minecraft_java/paper)
 * [Spigot](/minecraft_java/spigot/)
 * [spongeforge](/minecraft_java/spongeforge/)
 * [SpongeVanilla](/minecraft_java/spongevanilla/)
 * [Technic](/minecraft_java/technic/)
 * [VanillaCord](/minecraft_java/vanillacord/)
+* [Tuinity](/minecraft_java/tuinity/) 
 
 [Minecraft Proxies](/minecraft_proxy/) (these are for the java version of minecraft)
 * [Waterfall](/minecraft_proxy/waterfall/)
 * [TyphoonLimbo](/minecraft_proxy/typhoonlimbo/)
 * [Velocity](/minecraft_proxy/velocity/)
 
-[Starmade](/starmade/starmade/)
+[Red Dead Redemption](/rdr/)
+* [RedM](/rdr/redm/)
 
 [steamcmd servers](/steamcmd_servers/) These eggs use steamcmd to install
 * [7 Days to Die](/steamcmd_servers/7_days_to_die/)
@@ -98,7 +109,6 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Starbound](/steamcmd_servers/starbound)
 * [Sven Co-op](/steamcmd_servers/svencoop)
 * [Squad](/steamcmd_servers/squad/)
-* [Tower Unite](/steamcmd_servers/tower_unite/)
 * [Unturned](/steamcmd_servers/unturned/)
   * [RocketMod](/steamcmd_servers/unturned/rocketmod/)
   * [Unturned](/steamcmd_servers/unturned/unturned/)
@@ -109,5 +119,11 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 [Tycoon Games](/tycoon_games/)
 * [OpenTTD](/tycoon_games/openttd/)
+
+[Unreal Engine](/unreal_engine)
+* [Tower Unite](/unreal_engine/tower_unite/)
+* [Tower Unite](/steamcmd_servers/tower_unite/)
+
+[Vintage Story](/vintage_story/vintage_story/)
 
 [Xonotic](/xonotic/xonotic/)
